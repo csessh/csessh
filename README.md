@@ -1,4 +1,4 @@
-![alt text](https://github.com/csessh/csessh/blob/master/banner.jpeg)
+![alt text](https://github.com/csessh/csessh/blob/mastertwitter.jpeg)
 
 <!--
 **csessh/csessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
